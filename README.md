@@ -3,8 +3,8 @@ A blogging website that allows people to post articles.
 # Pre requisitive 
 1) Install latest mongodb and node version
 2) Install the following dependencies in your root folder
-a)body-parser"
-b)"cloudinary"
+    1)"body-parser"
+    2)"cloudinary"
     3)"connect-flash"
     4)"connect-mongo"
     5)"dotenv"
