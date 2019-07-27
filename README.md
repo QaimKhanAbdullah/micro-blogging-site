@@ -1,9 +1,9 @@
 # micro-blogging-site
-A blog website that allows people to write and post their articles.
-Pre requisitive 
-Install latest mongodb and node version
-Install the following dependencies in your root folder
-"body-parser": "^1.18.3",
+A blogging website that allows people to post articles. 
+# Pre requisitive 
+1) Install latest mongodb and node version
+2) Install the following dependencies in your root folder
+    "body-parser": "^1.18.3",
     "cloudinary": "^1.14.0",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^3.0.0",
@@ -15,6 +15,6 @@ Install the following dependencies in your root folder
     "express-session": "^1.15.6",
     "mongoose": "^5.5.14",
     "nodemon": "^1.18.3"
-
-After intalling the dependencies, run Mongodb intance on your local machine at port 27017.
+3) Run Mongodb intance on your local machine at port 27017.
+# Execution
 Execute 'npm run start' in command prompt.
